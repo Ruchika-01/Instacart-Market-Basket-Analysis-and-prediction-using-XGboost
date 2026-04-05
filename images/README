@@ -1,0 +1,21 @@
+# Project Assets & Visualizations
+
+This directory contains the static images, charts, and diagrams used to document the Instacart Customer Propensity projec.
+
+##Folder Contents
+
+* **customer_behavior_eda.png **:  -- EDA dashboards showing peak purchasing hours, weekly order volume trends, and the distribution of days between user orders.
+
+* **xgboost_feature_importance**: Visualizes the F-scores of the baseline  model, highlighting which features had the most influence on the initial predictions.
+* **baseline_confusion_matrix**:  Confidence score of baseline model
+* **Baseline_Model_Perfomance**: Evaluation metric of baseline model
+
+* **Tuned_model_feature_importance**: Visualizes the F-scores of the tuned model, highlighting which features had the most influence on the initial predictions.
+* **Refined_Model_Perfomance**:  Confidence score of tuned model
+* **Tuned_model_confusion_matrix**: Evaluation metric of tuned model
+
+
+* **Final_Result**: Output table showing the top 10 customer-product combinations and their associated probability of a repeat purchase.
+
+
+
